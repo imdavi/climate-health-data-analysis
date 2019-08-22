@@ -1,9 +1,10 @@
+# -*- coding: utf-8 -*-
 from datetime import date, datetime
 
-SUMMER = 'Verão'
-WINTER = 'Inverno'
-SPRING = 'Primavera'
-AUTUMN = 'Outono'
+SUMMER = 'Summer'
+WINTER = 'Winter'
+SPRING = 'Spring'
+AUTUMN = 'Autumn'
 
 _DUMMY_YEAR = 2000 # dummy leap year to allow input X-02-29 (leap day)
 
